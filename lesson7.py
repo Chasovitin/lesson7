@@ -43,7 +43,7 @@
 с помощью функции-генератора.
 Подсказка: для работы с псевдослучайными числами удобно использовать
 модуль random: http://docs.python.org/3/library/random.html
-"""
+""" это ппц
 
 from random import randint
 
